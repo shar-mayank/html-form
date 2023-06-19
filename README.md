@@ -15,4 +15,4 @@ Step-5: Go to preferences and set PHP-Cache to off.
 Step-6: Open browser and search [localhost:8888/"foldername"/index.php]. 
 
 **Screenshot**:
-<img width="1680" alt="image" src="https://github.com/Shar-Mayank/html-form/assets/108417648/bfb78bb7-9e2f-4d37-8543-491f08e733e1">
+<img width="1680" alt="image" src="https://github.com/Shar-Mayank/html-form/assets/108417648/460a0f10-ae81-48d6-a0aa-4dd7e9122f63">
