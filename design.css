@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Montserrat:wght@600&display=swap');
+
+
+.goat {
+  margin-top: 1%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 400px;
+  padding: 1em;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);
+  font-family: 'Montserrat', sans-serif;
+  background-color: #dbdbdb;
+  text-align: center;
+  color: #424242;
+  align-content: center;
+}
+
+.goat h2 {
+  margin-bottom: 10%;
+  font-size: 24px;
+}
+
+.goat .texts {
+  margin-bottom: 15px;
+}
+
+.goat label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+  color: #777;
+}
+
+.goat input[type="text"],
+.goat select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 1rem;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.goat .form-row {
+  display: flex;
+}
+
+
+.goat button[type="submit"] {
+  width: 100%;
+  padding: 14px;
+  background-color: #585858;
+  color: #fff;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.goat button[type="submit"]:hover {
+  background-color: #bebebe;
+  color: #424242;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.goat button[type="submit"]:focus {
+  outline: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.message textarea {
+    max-width: 400px;
+    padding: 1em;
+    border-radius: 10px;
+    border: none;
+}
+
+.texts{
+  text-align: left;
+}
+
+.gender-container {
+  display: flex;
+  align-items: center;
+}
+  
+.gender-container .form-check {
+  margin-right: 30px;
+}
+
+.gender-container .form-check-label {
+  margin-right: auto;
+}
+
+.house-container .form-check-label {
+  margin-right: auto;
+}
+  
+.house-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+  
+.house-container .form-check {
+  margin-right: 50px;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  color: #777;
+}
+  
+.input-group .input-group-text {
+  padding: 1em;
+  background: none;
+  border: none;
+}
+  
+.input-group .form-control {
+  flex-grow: 1;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  color: #424242;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  color: #777;
+}
+  
+.input-group .input-group-text {
+  padding: 1em;
+  background: none;
+  border: none;
+}
+  
+.input-group .form-control {
+  flex-grow: 1;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  color: #424242;
+}
+  
+.input-group-text {
+  display: flex;
+  align-items: center;
+  padding-right: 30px;
+}
+  
+.input-group-text input {
+  margin-right: 5px;
+}
